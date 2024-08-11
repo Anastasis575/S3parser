@@ -1,0 +1,9 @@
+body{
+    line-height: 1;
+}
+p{
+    font-size: 12px;
+}
+head title{
+    display: none;
+}
